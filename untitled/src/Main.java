@@ -13,7 +13,9 @@ public class Main {
         }
     }
 
-
+    /**
+     * S.
+     */
     public static void main(String[] args) {
         Animal[] animals = {
                 new Pig("Pig"),
